@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "MultidimensionalProjectMovieDW", "MultidimensionalProjectMovieDW\MultidimensionalProjectMovieDW.dwproj", "{437A1A89-1441-4226-84D1-B347CF530A58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{437A1A89-1441-4226-84D1-B347CF530A58}.Development|Default.ActiveCfg = Development
+		{437A1A89-1441-4226-84D1-B347CF530A58}.Development|Default.Build.0 = Development
+		{437A1A89-1441-4226-84D1-B347CF530A58}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
